@@ -3,4 +3,10 @@ Progetto di fine modulo React ove tramite una fetch asincrona si ottengono i dat
 Ho collegato le pagine definendo le rotte grazie react-router-dom e la pagina di errore 404 mostra una Gif animata oltre al messaggio di errore quando si indica un indirizzo diverso da quelli specificati. È inoltre presente uno spinner (PacmanLoader) per “giustificare” il caricamento. 
 
 Qui c’è un breve video di anteprima 👇🏻
-https://github.com/ArCalamusa/M5-D7_8/assets/117526559/549f8aa5-1932-4e36-a542-b3184c412ad2
+
+
+
+
+
+https://github.com/ArCalamusa/M5-D7_8/assets/117526559/01972d9f-b2c4-4def-b348-9987957dc7d6
+
